@@ -50,7 +50,7 @@ mvn test
 
 # License
 
-Crafted with ❤️ by ALdan Maulana Fajri.
+Crafted with ❤️ by Aldan Maulana Fajri.
 
 ---
 
